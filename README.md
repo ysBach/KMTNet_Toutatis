@@ -3,4 +3,7 @@ This is a repository which will contain jupyter notebooks and other related code
 
 
 
-Although you can directly load the notebooks here on GitHub, they can also be viewed at nbviewer by Jupyter: [link](https://nbviewer.jupyter.org/github/ysbach/KMTNet_Toutatis/tree/master/Notebooks/) (which I think is more readible and loads quicker).
+Although you can directly load the notebooks here on GitHub, they can also be viewed at nbviewer by Jupyter (which I think is more readible and loads quicker).: 
+
+[link to Jupyter nbviewer](https://nbviewer.jupyter.org/github/ysbach/KMTNet_Toutatis/tree/master/Notebooks/) 
+
