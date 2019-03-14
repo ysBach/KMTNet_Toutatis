@@ -1,4 +1,5 @@
 .DS_Store
+*.fits
 Notebooks/__refree*
 
 # Byte-compiled / optimized / DLL files
